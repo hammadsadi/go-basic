@@ -25,7 +25,9 @@ func main(){
 	// 2
 	// var s bool = false 
 	// 3
-	var a string = 'Sadidseer'
+	// a := "Sadidseer" 
+
+	var a string = "Sadidseer"
 
 	fmt.Println(a)
 }
